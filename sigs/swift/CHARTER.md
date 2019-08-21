@@ -12,6 +12,7 @@ Anyone involved in or interested in Swift for TensorFlow is welcome to join the 
 
 * Mailing list: [swift@tensorflow.org](https://groups.google.com/a/tensorflow.org/forum/#!forum/swift)
 * Github repo: [tensorflow/swift](https://github.com/tensorflow/swift)
+* [Agenda Document](https://docs.google.com/document/d/1Fm56p5rV1t2Euh6WLtBFKGqI43ozC3EIjReyLk-LCLU/edit#heading=h.s0dsh2pzge57) containing the meeting notes and recordings.
 
 ## Collaboration
 
